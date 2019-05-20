@@ -1,7 +1,9 @@
 # Machine Learning Project Spring 2019
 
 ### Project Members: Akhil Wadhwa and Suyash Sule, NYU Tandon School of Engineering
-Human Activity Classification into 19 activities performed by eight subjects (4 female, 4 male, between the ages 20 and 30) for 5 minutes. For the same, we have used the dataset from UCI Machine Learning Repository.
+Title: Learning Human Activities from Body-Worn Motion and Magnetic Sensor Data
+
+- Human Activity Classification into 19 activities performed by eight subjects (4 female, 4 male, between the ages 20 and 30) for 5 minutes. We have used the dataset from UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Daily+and+Sports+Activities
 
 ### The 19 activities are as follows: 
 
