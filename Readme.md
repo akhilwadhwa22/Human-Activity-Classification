@@ -25,6 +25,6 @@ Playing basketball (A19)
 The subjcts have sensors on torso (T), right arm (RA), left arm (LA), right leg (RL), left leg (LL) with a total of 9 sensors on each (x,y,z accelerometers, x,y,z gyroscopes, x,y,z magnetometers). 
 
 
-#### Please refer to the Machine learning_Project.ipynb Notebook for codes and outputs
-#### The theory and discussion are provided in the Report.pdf file
-#### Signal processing analysis involving filter impulse response, processing and data frequency response is done in the .mat files in the 'Analysis of Data Processing' folder. The folder includes figures and code for the same
+- Please refer to the Machine learning_Project.ipynb Notebook for codes and outputs
+- The theory and discussion are provided in the Report.pdf file
+- Signal processing analysis involving filter impulse response, processing and data frequency response is done in the .mat files in the 'Analysis of Data Processing' folder. The folder includes figures and code for the same
