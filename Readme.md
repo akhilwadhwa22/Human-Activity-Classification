@@ -3,11 +3,6 @@
 ### Project Members: Akhil Wadhwa and Suyash Sule, NYU Tandon School of Engineering
 Human Activity Classification into 19 activities performed by eight subjects (4 female, 4 male, between the ages 20 and 30) for 5 minutes. For the same, we have used the dataset from UCI Machine Learning Repository.
 
-### Please refer to the Machine learning_Project.ipynb Notebook for codes and outputs
-### The theory and discussion are provided in the Report.pdf file
-### Signal processing analysis involving filter impulse response, processing and data frequency response is done in the .mat files in the 'Analysis of Data Processing' folder. The folder includes figures and code for the same
-
-
 ### The 19 activities are as follows: 
 
 Sitting (A1), 
@@ -26,3 +21,8 @@ Jumping (A18),
 Playing basketball (A19)
 
 The subjcts have sensors on torso (T), right arm (RA), left arm (LA), right leg (RL), left leg (LL) with a total of 9 sensors on each (x,y,z accelerometers, x,y,z gyroscopes, x,y,z magnetometers). 
+
+
+#### Please refer to the Machine learning_Project.ipynb Notebook for codes and outputs
+#### The theory and discussion are provided in the Report.pdf file
+#### Signal processing analysis involving filter impulse response, processing and data frequency response is done in the .mat files in the 'Analysis of Data Processing' folder. The folder includes figures and code for the same
