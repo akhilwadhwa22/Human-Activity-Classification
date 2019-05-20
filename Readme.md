@@ -27,4 +27,4 @@ The subjcts have sensors on torso (T), right arm (RA), left arm (LA), right leg 
 
 - Please refer to the Machine learning_Project.ipynb Notebook for codes and outputs
 - The theory and discussion are provided in the Report.pdf file
-- Signal processing analysis involving filter impulse response, processing and data frequency response is done in the .mat files in the 'Analysis of Data Processing' folder. The folder includes figures and code for the same
+- Signal processing analysis involving filter impulse response, processing and data frequency response is done in the matlab files in the 'Analysis of Data Processing' folder. The folder includes figures and code for the same.
