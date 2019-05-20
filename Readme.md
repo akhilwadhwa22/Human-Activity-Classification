@@ -1,7 +1,7 @@
 # Machine Learning Project Spring 2019
 Human Activity Classification into 19 activities performed by eight subjects (4 female, 4 male, between the ages 20 and 30) for 5 minutes.For the same, we have used the dataset from UCI Machine Learning Repository.
 
-## The 19 activities we will be classifying into are: 
+### The 19 activities are as follows: 
 
 Sitting (A1), 
 Standing (A2), 
